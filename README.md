@@ -60,15 +60,18 @@ ServiceHub AI provides a centralized digital marketplace that simplifies service
 
 ## Repository Structure
 
-servicehub-ai-platform
+```
+servicehub-ai-platform/
 │
-├── README.md
-├── SPECIFICATION.md
-├── ARCHITECTURE.md
-├── docs/diagrams
-├── backend
-├── frontend
-└── database
+├── README.md                    # Project overview and documentation
+├── SPECIFICATION.md             # System requirements specification
+├── ARCHITECTURE.md              # System architecture design
+├── docs/                        # Documentation folder
+│   └── diagrams/                # Architecture and system diagrams
+├── backend/                     # Backend service (Java/Spring Boot)
+├── frontend/                    # Frontend application (React.js)
+└── database/                    # Database schemas and migrations
+```
 
 ## Author
 
