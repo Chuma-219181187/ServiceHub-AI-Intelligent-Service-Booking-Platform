@@ -75,5 +75,5 @@ servicehub-ai-platform/
 
 ## Author
 
-Chuma Nxazonke
+Chuma Nxazonke  
 Cape Peninsula University of Technology
