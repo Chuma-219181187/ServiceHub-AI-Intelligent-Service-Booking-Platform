@@ -60,4 +60,4 @@ The system architecture is described using the **C4 Model**, which provides diff
 
 [![Entity Relationship Diagram](docs/Entity%20Relationship%20Diagram%20%28ERD%29.png)](docs/Entity%20Relationship%20Diagram%20%28ERD%29.png)
 
-*=================================================================================*
+*=========================================================================================*
