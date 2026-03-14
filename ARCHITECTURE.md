@@ -43,21 +43,11 @@ The system architecture is described using the **C4 Model**, which provides diff
 
 ---
 
-## System Behavior - Sequence Diagram
 
-[![Sequence Diagram - Booking Workflow](docs/Sequence%20Diagram%20%28Booking%20Workflow%29.png)](docs/Sequence%20Diagram%20%28Booking%20Workflow%29.png)
-
-
-
----
-
-## Infrastructure - Deployment Diagram
-
-[![Deployment Diagram - Infrastructure](docs/Deployment%20Diagram%20%28Infrastructure%29.png)](docs/Deployment%20Diagram%20%28Infrastructure%29.png)
 
 
 ## Entity Relationship Diagram (ERD)
 
 [![Entity Relationship Diagram](docs/Entity%20Relationship%20Diagram%20%28ERD%29.png)](docs/Entity%20Relationship%20Diagram%20%28ERD%29.png)
 
-*=================================================================================*
+
