@@ -1,4 +1,4 @@
-# Reflection – Requirements Engineering Process
+# Requirements Engineering Process
 
 Developing the requirements for ServiceHub AI required careful consideration of multiple stakeholders with different priorities. Customers primarily expect an easy-to-use platform that allows them to quickly discover reliable service providers and book services without complications. On the other hand, service providers are concerned with gaining visibility, managing bookings efficiently, and receiving timely payments.
 
@@ -8,9 +8,7 @@ Another challenge involved defining requirements that were specific and measurab
 
 This process highlighted the importance of structured requirements engineering in software development. By clearly identifying stakeholder concerns and translating them into functional and non-functional requirements, the system design becomes more aligned with real-world user needs.
 
-========================================================================================
-
-# Reflection – Use Case and Test Design
+# Use Case and Test Design
 
 The transition from system requirements to use case modeling required careful analysis to ensure that all functional requirements were accurately represented as user interactions. One of the main challenges encountered was maintaining consistency between the requirements defined in the previous assignment and the newly developed use cases.
 
