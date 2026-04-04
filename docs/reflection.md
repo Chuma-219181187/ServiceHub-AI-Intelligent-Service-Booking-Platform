@@ -22,3 +22,19 @@ Balancing simplicity and completeness was another important aspect. While it was
 
 Overall, this process highlighted the importance of structured design in software engineering. By systematically converting requirements into use cases and test cases, the system becomes easier to validate, implement, and maintain.
 
+
+# Agile Planning Process
+
+The transition from structured requirements and use case modeling to Agile planning introduced a different way of thinking about system development. Instead of focusing on the system as a whole, the process required breaking down features into smaller, incremental units known as user stories.
+
+One of the main challenges encountered was prioritization. As a single developer acting in multiple roles, it was difficult to balance technical complexity with user value. For example, while implementing AI-based recommendations would significantly enhance the system, it was not essential for the minimum viable product. This required making deliberate trade-offs to focus on core functionalities such as user authentication, service search, and booking.
+
+Another challenge was effort estimation. Assigning story points required careful judgment, especially when considering dependencies between tasks. For instance, the booking functionality depends on both user authentication and service availability, making it more complex than it initially appears. Estimating these dependencies accurately was important to ensure realistic sprint planning.
+
+Maintaining traceability across assignments also required attention. Each user story had to align with previously defined functional requirements and use cases. This ensured consistency in the system design and demonstrated a structured development approach.
+
+Additionally, working individually highlighted the importance of self-discipline and time management. Without a team to distribute tasks, it was necessary to carefully plan workload and ensure that each sprint goal remained achievable within the given timeframe.
+
+Overall, this process emphasized the importance of Agile methodologies in modern software development. By focusing on incremental delivery and continuous prioritization, the system becomes more adaptable to change while still meeting stakeholder needs. The experience also reinforced the value of structured planning in delivering a functional and scalable system.
+
+

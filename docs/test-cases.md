@@ -1,4 +1,4 @@
-﻿# Test Cases – ServiceHub AI
+# Test Cases – ServiceHub AI
 
 | Test ID | Requirement | Description        | Steps                  | Expected Result    | Status  |
 | ------- | ----------- | ------------------ | ---------------------- | ------------------ | ------- |
