@@ -38,3 +38,14 @@ Additionally, working individually highlighted the importance of self-discipline
 Overall, this process emphasized the importance of Agile methodologies in modern software development. By focusing on incremental delivery and continuous prioritization, the system becomes more adaptable to change while still meeting stakeholder needs. The experience also reinforced the value of structured planning in delivering a functional and scalable system.
 
 
+# GitHub Kanban Implementation
+
+One of the main challenges encountered during this assignment was selecting the most suitable GitHub project template. While multiple templates were available, each with its own strengths, it was necessary to evaluate them based on the project requirements and Agile methodology.
+
+The Automated Kanban template was ultimately selected due to its ability to streamline workflow through automation. This reduced the need for manual updates and ensured that task progression was accurately reflected.
+
+Customizing the Kanban board also required careful consideration. Adding columns such as "Testing" and "Blocked" improved the clarity of the workflow and better represented real-world software development processes.
+
+Compared to tools like Trello and Jira, GitHub Projects provides strong integration with code repositories and issues, making it particularly useful for development-focused teams. However, tools like Jira offer more advanced features for large-scale enterprise projects.
+
+Overall, this assignment provided valuable insight into Agile project management and the practical use of Kanban boards in software development. It reinforced the importance of visualization, task prioritization, and continuous workflow improvement.
