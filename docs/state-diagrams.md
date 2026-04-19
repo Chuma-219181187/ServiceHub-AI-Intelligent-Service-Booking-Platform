@@ -164,53 +164,6 @@ User Stories:
 
 ----------------------------------------------------------------------------------------
 
-# State Transition Diagram – Booking
-
-```mermaid
-stateDiagram-v2
-[*] --> Pending
-
-Pending --> Confirmed : Payment successful
-Pending --> Cancelled : User cancels
-
-Confirmed --> InProgress : Service starts
-InProgress --> Completed : Service ends
-
-Completed --> Reviewed : User leaves review
-
-Confirmed --> Cancelled : Provider rejects
-
-Cancelled --> [*]
-Reviewed --> [*]
-```
-
-## Explanation
-
-The Booking object tracks service reservations.
-
-* **Pending**: Awaiting payment
-* **Confirmed**: Payment completed
-* **InProgress**: Service being delivered
-* **Completed**: Service finished
-* **Reviewed**: Feedback added
-* **Cancelled**: Booking terminated
-
-### Traceability
-
-Functional Requirements:
-
-* FR5 – Booking Management
-* FR6 – Payment Processing
-* FR8 – Review System
-
-User Stories:
-
-* US-005: Book Service
-* US-006: Make Payment
-* US-007: Leave Review
-
-----------------------------------------------------------------------------------------
-
 # State Transition Diagram – Payment
 
 ```mermaid
