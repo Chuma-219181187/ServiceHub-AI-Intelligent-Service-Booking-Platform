@@ -49,3 +49,16 @@ Customizing the Kanban board also required careful consideration. Adding columns
 Compared to tools like Trello and Jira, GitHub Projects provides strong integration with code repositories and issues, making it particularly useful for development-focused teams. However, tools like Jira offer more advanced features for large-scale enterprise projects.
 
 Overall, this assignment provided valuable insight into Agile project management and the practical use of Kanban boards in software development. It reinforced the importance of visualization, task prioritization, and continuous workflow improvement.
+
+
+# Dynamic System Modeling
+
+One of the main challenges encountered during this assignment was determining the appropriate level of detail for state transitions and activity workflows. Including too many states made diagrams complex and difficult to read, while too few reduced their usefulness in representing system behavior.
+
+Another challenge involved aligning the diagrams with previously defined functional requirements and user stories. Ensuring consistency across all assignments required careful mapping between system actions, states, and workflows.
+
+State diagrams and activity diagrams serve different purposes. State diagrams focus on how an object changes over time, while activity diagrams represent the flow of processes. Understanding this distinction was important to avoid mixing concepts.
+
+Additionally, modeling real-world scenarios such as booking, payment, and notifications required considering edge cases like failed payments or unavailable services.
+
+Overall, this assignment provided valuable insight into system behavior modeling and reinforced the importance of visual representations in software design. These diagrams will be useful in guiding system implementation and improving communication between stakeholders.
