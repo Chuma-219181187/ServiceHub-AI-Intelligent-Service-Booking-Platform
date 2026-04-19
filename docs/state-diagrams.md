@@ -1,3 +1,8 @@
+# State Transition Diagrams – ServiceHub AI
+
+This document presents the state transition diagrams for key system entities within the ServiceHub AI platform. These diagrams illustrate how objects change state over time in response to events and actions within the system.
+----------------------------------------------------------------------------------------
+
 # State Transition Diagram – Booking
 
 ```mermaid
