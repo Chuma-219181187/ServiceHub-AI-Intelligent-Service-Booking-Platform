@@ -4,44 +4,6 @@ This document presents the state transition diagrams for key system entities wit
 
 ----------------------------------------------------------------------------------------
 
-# State Transition Diagram – Booking
-
-```mermaid
-stateDiagram-v2
-[*] --> Pending
-
-Pending --> Confirmed : Payment Successful
-Pending --> Cancelled : User Cancels
-
-Confirmed --> InProgress : Service Starts
-InProgress --> Completed : Service Finished
-
-Completed --> Reviewed : User Leaves Review
-
-Confirmed --> Cancelled : Provider Rejects
-
-Cancelled --> [*]
-Reviewed --> [*]
-```
-
-## Explanation
-
-The Booking object transitions through multiple states from creation to completion.
-
-* **Pending**: Initial state after booking is created.
-* **Confirmed**: Booking is confirmed after successful payment.
-* **InProgress**: Service is being delivered.
-* **Completed**: Service has been successfully completed.
-* **Reviewed**: Customer leaves feedback.
-* **Cancelled**: Booking is cancelled by user or provider.
-
-This diagram directly maps to:
-
-* **FR5 – Booking Management**
-* **FR6 – Payment Processing**
-* **FR8 – Review System**
-
-----------------------------------------------------------------------------------------
 # State Transition Diagram – User Account
 
 ```mermaid
@@ -320,5 +282,3 @@ Functional Requirements:
 User Stories:
 
 * US-011: Send Notifications
-
-
